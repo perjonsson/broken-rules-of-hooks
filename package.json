@@ -9,9 +9,6 @@
     "dist:dir": "yarn dist --dir -c.compression=store -c.mac.identity=null"
   },
   "dependencies": {
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "source-map-support": "^0.5.9",
     "@babel/preset-react": "^7.0.0",
     "electron": "2.0.9",
     "electron-builder": "^20.28.1",
@@ -19,6 +16,10 @@
     "electron-webpack-eslint": "^3.0.0",
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-tiny-link": "^3.2.0",
+    "source-map-support": "^0.5.9",
     "webpack": "^4.16.5"
   },
   "resolutions": {
